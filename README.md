@@ -23,10 +23,6 @@ npm run dev
 - Barra de progresso visual
 - Feedback final com pontuação
 
-## 📸 Screenshot
-
-![preview](https://via.placeholder.com/600x300.png?text=Gamified+Learning+Preview)
-
 ## 👨‍💻 Autor
 
 GitHub: [KaiqueNP](https://github.com/KaiqueNP)
